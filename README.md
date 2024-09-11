@@ -11,7 +11,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-### Exemplo de Execução do Programa 1
+### Print da solução rodando
 
 ![Execução do Programa 2](images/question2.png)
 
@@ -24,6 +24,8 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
+### Print da solução rodando
+
 ![Execução do Programa 3](images/question3.png)
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -35,6 +37,8 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 
+### Print da solução rodando
+
 ![Execução do Programa 4](images/question4.png)
 
 5) Escreva um programa que inverta os caracteres de um string.
@@ -42,5 +46,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+### Print da solução rodando
 
 ![Execução do Programa 5](images/question5.png)
